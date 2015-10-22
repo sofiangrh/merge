@@ -6,8 +6,8 @@
 #include "protocol/Json.hh"
 #include "util/Exception.hh"
 
-#include <string>
-#include <vector>
+#include <stringi>
+include <vector>
 
 namespace gr {
 
